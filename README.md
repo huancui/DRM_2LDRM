@@ -3,6 +3,9 @@ This repository includes source codes for the DRM and 2-layer DRM (2L-DRM) model
 
 ## DRM: (drm_WRF25NAM5.f90)
 Reference: [Dominguez et al. (2006)](https://journals.ametsoc.org/doi/10.1175/JCLI3691.1) and [Martinez and Dominguez (2014)](https://journals.ametsoc.org/doi/10.1175/JCLI-D-14-00022.1)
+
+![N|Solid](https://github.com/huancui/DRM_2LDRM/blob/master/Picture1.png)
+
 ### Input files:
 1.	Forcing data: 
 
