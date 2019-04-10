@@ -3,6 +3,7 @@ This repository includes source codes for the DRM and 2-layer DRM (2L-DRM) model
 
 ## DRM:
 Reference: [Dominguez et al. (2006)](https://journals.ametsoc.org/doi/10.1175/JCLI3691.1) and [Martinez and Dominguez (2014)](https://journals.ametsoc.org/doi/10.1175/JCLI-D-14-00022.1)
+### Code: drm_WRF25NAM5.f90
 ### Input files:
 1.	Forcing data: 
 
@@ -16,7 +17,7 @@ Reference: [Dominguez et al. (2006)](https://journals.ametsoc.org/doi/10.1175/JC
 
 (*Precipitation is used to weight regional contribution, is not necessary if replaced by PW to weight)
 
-2.	Region setup files:
+2.	Region setup files (both can be found in this repository as examples):
 
 
 |  | File names | Description |
@@ -37,6 +38,7 @@ Reference: [Dominguez et al. (2006)](https://journals.ametsoc.org/doi/10.1175/JC
 
 ## 2L-DRM:
 Reference: Dominguez et al. (2019) (to be submitted)
+### Code: drm2L_WRF25NAM5_PW.f90
 ### Input files:
 1.	Forcing data:
 
