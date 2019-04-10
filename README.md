@@ -24,6 +24,7 @@ Reference: [Dominguez et al. (2006)](https://journals.ametsoc.org/doi/10.1175/JC
 | A | WRF_Tracer_NAM_ij.txt | List of i and j indices for target region grids in the domain |
 | B | WRF_Tracer_5reg.txt | Regional masks for each sub-region defined in the domain (specify each sub-region with a different value) | 
 
+
 ### Output files:
 
 |  | File names | description |
@@ -33,6 +34,7 @@ Reference: [Dominguez et al. (2006)](https://journals.ametsoc.org/doi/10.1175/JC
 | C* | WRF_OUTPUT_yyyy_BCTJ_PW.txt | Recording information along each back-trajectory (diagnosing purpose) |
 
 (*"_PW" in output files indicate regional contributions weighted by precipitable water)
+
 
 
 ## 2L-DRM: (drm2L_WRF25NAM5_PW.f90)
@@ -63,6 +65,7 @@ Reference: Dominguez et al. (2019) (to be submitted)
 | A | WRF_Tracer_NAM_ij.txt | List of i and j indices for target region grids in the domain |
 | B | WRF_Tracer_5reg.txt | Regional masks for each sub-region defined in the domain (specify each sub-region with a different value) |
 | C | 700mb_mask.txt | Masks to indicate if the grid has only the upper slab (elevation is above 700mb) or both slabs (0 – only upper slab, 1 – both slabs) | 
+
 
 ### Output files:
 
