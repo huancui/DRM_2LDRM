@@ -1,9 +1,8 @@
 # DRM and 2L-DRM 
 This repository includes source codes for the DRM and 2-layer DRM (2L-DRM) models. The following explains the input files required to run the models and the output files from the models.
 
-## DRM:
+## DRM: (drm_WRF25NAM5.f90)
 Reference: [Dominguez et al. (2006)](https://journals.ametsoc.org/doi/10.1175/JCLI3691.1) and [Martinez and Dominguez (2014)](https://journals.ametsoc.org/doi/10.1175/JCLI-D-14-00022.1)
-### Code: drm_WRF25NAM5.f90
 ### Input files:
 1.	Forcing data: 
 
@@ -36,9 +35,8 @@ Reference: [Dominguez et al. (2006)](https://journals.ametsoc.org/doi/10.1175/JC
 (*"_PW" in output files indicate regional contributions weighted by precipitable water)
 
 
-## 2L-DRM:
+## 2L-DRM: (drm2L_WRF25NAM5_PW.f90)
 Reference: Dominguez et al. (2019) (to be submitted)
-### Code: drm2L_WRF25NAM5_PW.f90
 ### Input files:
 1.	Forcing data:
 
