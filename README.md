@@ -38,10 +38,13 @@ Reference: [Dominguez et al. (2006)](https://journals.ametsoc.org/doi/10.1175/JC
 
 (*"_PW" in output files indicate regional contributions weighted by precipitable water)
 
-
+---
 
 ## 2L-DRM: (drm2L_WRF25NAM5_PW.f90)
 Reference: Dominguez et al. (2019) (to be submitted)
+
+![N|Solid](https://github.com/huancui/DRM_2LDRM/blob/master/Picture2.png)
+
 ### Input files:
 1.	Forcing data:
 
