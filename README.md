@@ -14,8 +14,8 @@ Reference: [Dominguez et al. (2006)](https://journals.ametsoc.org/doi/10.1175/JC
 | A	| DRMyyyy0601WRFddd_ET.txt | evapotranspiration (ET) with daily resolution |
 | B | DRMyyyy0601WRFddd_PP.txt | precipitation (PP) with daily resolution* |
 | C | DRMyyyy0601WRFddd_PW.txt | precipitable water (PW) with daily resolution |
-| D | DRMyyyy0601WRFddd_U3.txt | column vapor weighted U at 3-hourly resolution |
-| E | DRMyyyy0601WRFddd_V3.txt | column vapor weighted V at 3-hourly resolution |
+| D | DRMyyyy0601WRFddd_U3.txt | column vapor weighted U with 3-hourly resolution |
+| E | DRMyyyy0601WRFddd_V3.txt | column vapor weighted V with 3-hourly resolution |
 
 (*Precipitation is used to weight regional contribution, is not necessary if replaced by PW to weight)
 
