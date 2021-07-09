@@ -41,7 +41,7 @@ Reference: [Dominguez et al. (2006)](https://journals.ametsoc.org/doi/10.1175/JC
 ---
 
 ## 2L-DRM: (drm2L_WRF25NAM5_PW.f90)
-Reference: Dominguez et al. (2019) (to be submitted)
+Reference: [Dominguez et al. (2020)](https://journals.ametsoc.org/view/journals/hydr/21/1/jhm-d-19-0101.1.xml)
 
 ![N|Solid](https://github.com/huancui/DRM_2LDRM/blob/master/Picture2.png)
 
